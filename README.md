@@ -1,10 +1,10 @@
 # To-Do List Manager
 
-A simple desktop application built with Java Swing that allows users to manage their daily tasks with persistent storage using SQLite database.
+A simple desktop application built with Java Swing that allows users to manage their daily tasks with persistent storage using H2 database.
 
 ## Project Summary
 
-This is a beginner-friendly GUI-based To-Do List application that demonstrates core Java programming concepts including Object-Oriented Programming, GUI development with Swing, and basic database operations. Users can add, view, remove, and mark tasks as completed, with all data being persistently stored in an SQLite database file.
+This is a beginner-friendly GUI-based To-Do List application that demonstrates core Java programming concepts including Object-Oriented Programming, GUI development with Swing, and basic database operations. Users can add, view, remove, and mark tasks as completed, with all data being persistently stored in an H2 database file.
 
 ## Directory Structure
 
